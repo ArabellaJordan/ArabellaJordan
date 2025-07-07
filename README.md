@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Arabella
 - 👀 I’m interested in mech keybs
 - 🌱 I’m currently learning Web Development!
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jordanfaearabella@gmail.com
 
 <!---
